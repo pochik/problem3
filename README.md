@@ -1,5 +1,4 @@
 <img src="pic.png">
-Отчёт:\n
 1. График T(p)
 <img src="time_plot.png">
 2. График S(p)
